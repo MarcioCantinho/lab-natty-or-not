@@ -20,7 +20,7 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# # Roadmap sobre a carreira de analista de dados em 2026.
+# # Roadmap sobre a carreira de Analista de Dados em 2026.
 
 ## 📒 Descrição
 Imagem contendo um guia rápido com as principais habilidades necessárias de um profissional de análise de dados no ano de 2026. 
