@@ -34,7 +34,8 @@ ao Gemini que transformasse as informações em um mapa ilustrativo sobre as hab
 
 ## 🖼️ Preview
 
-![Minha imagem](assets/minha-imagem.png)
+<img width="1024" height="470" alt="Roadmap para um analista de Dados em 2026_Gemini_Generated" src="https://github.com/user-attachments/assets/5f5a0a95-0e75-4b85-aae7-5005854189b9" />
+
 ```
 
 ### Exemplos e Insigths
