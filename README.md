@@ -20,22 +20,21 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# # Roadmap sobre a carreira de analista de dados em 2026.
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Imagem contendo um guia rápido com as principais habilidades necessárias de um profissional de análise de dados no ano de 2026. 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT para a pesquisa e listagem do conteúdo e Gemini para a geração da imagem.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Pedi ao ChatGPT que listasse as principais habilidades de um analista de dados em 2026 e com a descrição trazida, solicitei 
+ao Gemini que transformasse as informações em um mapa ilustrativo sobre as habilidades de um profissional da área.
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+## 🖼️ Preview
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+![Minha imagem](assets/minha-imagem.png)
 ```
 
 ### Exemplos e Insigths
